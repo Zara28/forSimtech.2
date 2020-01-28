@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+
+
+msgctxt "Addons::name::my_condition"
+msgid "my_condition"
+msgstr "Новый модуль"
+
+msgctxt "Addons::description::my_condition"
+msgid "A dummy add-on for easier hook design editing"
+msgstr "Описание модуля"
+
+msgctxt "Languages::my_condition.selectbox"
+msgid "Condition"
+msgstr "Состояние"
+
+msgctxt "Languages::my_condition.d"
+msgid "destroyed_product"
+msgstr "Ужасное"
+
+msgctxt "Languages::my_condition.p"
+msgid "poor_product"
+msgstr "Плохое"
+
+msgctxt "Languages::my_condition.g"
+msgid "good_product"
+msgstr "Сойдет"
+
+msgctxt "Languages::my_condition.a"
+msgid "average_product"
+msgstr "Хорошее"
+
+msgctxt "Languages::my_condition.e"
+msgid "excellent_product"
+msgstr "Отличное"

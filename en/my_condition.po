@@ -1,0 +1,37 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::my_condition"
+msgid "my_condition"
+msgstr "condition"
+
+msgctxt "Addons::description::my_condition"
+msgid "description condition"
+msgstr "description new addon"
+
+msgctxt "Languages::my_condition.selectbox"
+msgid "Condition"
+msgstr "Condition"
+
+msgctxt "Languages::my_condition.d"
+msgid "destroyed_product"
+msgstr "destroyed"
+
+msgctxt "Languages::my_condition.p"
+msgid "poor_product"
+msgstr "poor"
+
+msgctxt "Languages::my_condition.g"
+msgid "good_product"
+msgstr "good"
+
+msgctxt "Languages::my_condition.a"
+msgid "average_product"
+msgstr "average"
+
+msgctxt "Languages::my_condition.e"
+msgid "excellent_product"
+msgstr "excellent"
